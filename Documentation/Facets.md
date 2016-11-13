@@ -38,6 +38,9 @@ foreach (var facet in r.FacetFields["category"]) {
 }
 ```
 
+TESTING ********************************
+
+
 ### Date facets
 Date facet queries create facets from date ranges. Sample code:
 
